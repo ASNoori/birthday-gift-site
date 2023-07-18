@@ -9,8 +9,5 @@ Personal Greetings: It greets the birthday person with their name, age, and birt
 
 Gift Sections: Hover over gift images to reveal surprises related to the recipient.
 
-Easy Customization: Customize the site with preferred images and text.
-
 Mobile-Friendly: The site works seamlessly on various devices.
 
-Encourages Creativity: The footer links to Unsplash, inspiring users to create personalized gift sites.
